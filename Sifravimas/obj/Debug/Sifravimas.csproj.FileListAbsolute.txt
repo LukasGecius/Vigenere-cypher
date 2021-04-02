@@ -1,0 +1,10 @@
+C:\Users\Lukas\Desktop\Paskaitos\Informacijos saugumas\Uzduotis 1\Sifravimas\Sifravimas\obj\Debug\Sifravimas.csprojAssemblyReference.cache
+C:\Users\Lukas\Desktop\Paskaitos\Informacijos saugumas\Uzduotis 1\Sifravimas\Sifravimas\obj\Debug\Sifravimas.Form1.resources
+C:\Users\Lukas\Desktop\Paskaitos\Informacijos saugumas\Uzduotis 1\Sifravimas\Sifravimas\obj\Debug\Sifravimas.Properties.Resources.resources
+C:\Users\Lukas\Desktop\Paskaitos\Informacijos saugumas\Uzduotis 1\Sifravimas\Sifravimas\obj\Debug\Sifravimas.csproj.GenerateResource.cache
+C:\Users\Lukas\Desktop\Paskaitos\Informacijos saugumas\Uzduotis 1\Sifravimas\Sifravimas\obj\Debug\Sifravimas.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Desktop\Paskaitos\Informacijos saugumas\Uzduotis 1\Sifravimas\Sifravimas\bin\Debug\Sifravimas.exe.config
+C:\Users\Lukas\Desktop\Paskaitos\Informacijos saugumas\Uzduotis 1\Sifravimas\Sifravimas\bin\Debug\Sifravimas.exe
+C:\Users\Lukas\Desktop\Paskaitos\Informacijos saugumas\Uzduotis 1\Sifravimas\Sifravimas\bin\Debug\Sifravimas.pdb
+C:\Users\Lukas\Desktop\Paskaitos\Informacijos saugumas\Uzduotis 1\Sifravimas\Sifravimas\obj\Debug\Sifravimas.exe
+C:\Users\Lukas\Desktop\Paskaitos\Informacijos saugumas\Uzduotis 1\Sifravimas\Sifravimas\obj\Debug\Sifravimas.pdb
